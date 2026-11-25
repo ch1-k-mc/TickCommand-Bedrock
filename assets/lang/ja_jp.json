@@ -1,0 +1,20 @@
+{
+  "tickcommand.query.percentiles": "tick 時間の分布: P50 %s ms / P95 %s ms / P99 %s ms（%s 回分）",
+  "tickcommand.query.rate.running": "目標レート: %s tick/秒\n平均 tick 時間: %s ms（目標 %s ms）",
+  "tickcommand.query.rate.sprinting": "目標レート: %s tick/秒（スプリント中は適用されません）\n平均 tick 時間: %s ms",
+  "tickcommand.rate.success": "目標レートを %s tick/秒 にしました",
+  "tickcommand.sprint.report": "スプリント完了: %s tick/秒、%s ms/tick",
+  "tickcommand.sprint.stop.fail": "止めるスプリントはありません",
+  "tickcommand.sprint.stop.success": "スプリントを止めました",
+  "tickcommand.status.frozen": "ワールドの進行を凍結中です",
+  "tickcommand.status.lagging": "ワールドの進行が目標レートに追いついていません",
+  "tickcommand.status.running": "ワールドは通常どおり進行中です",
+  "tickcommand.status.sprinting": "ワールドをスプリント中です",
+  "tickcommand.step.fail": "ステップの前にワールドを凍結してください",
+  "tickcommand.step.stop.fail": "止めるステップはありません",
+  "tickcommand.step.stop.success": "ステップを止めました",
+  "tickcommand.step.success": "%s tick 進めます",
+  "tickcommand.error.time": "時間の指定が正しくありません: %s",
+  "tickcommand.error.rate": "レートは 1.0 から 10000.0 の範囲で指定してください",
+  "tickcommand.error.command_block": "このコマンドはコマンドブロックからは実行できません"
+}

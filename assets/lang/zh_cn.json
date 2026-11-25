@@ -1,0 +1,20 @@
+{
+  "tickcommand.query.percentiles": "tick 耗时分布：P50 %s 毫秒，P95 %s 毫秒，P99 %s 毫秒（%s 个样本）",
+  "tickcommand.query.rate.running": "目标速率：%s tick/秒\n平均 tick 耗时：%s 毫秒（目标 %s 毫秒）",
+  "tickcommand.query.rate.sprinting": "目标速率：%s tick/秒（冲刺期间不生效）\n平均 tick 耗时：%s 毫秒",
+  "tickcommand.rate.success": "目标速率已改为 %s tick/秒",
+  "tickcommand.sprint.report": "冲刺结束：%s tick/秒，%s 毫秒/tick",
+  "tickcommand.sprint.stop.fail": "没有可停止的冲刺",
+  "tickcommand.sprint.stop.success": "冲刺已停止",
+  "tickcommand.status.frozen": "世界运行已冻结",
+  "tickcommand.status.lagging": "世界运行跟不上目标速率",
+  "tickcommand.status.running": "世界正常运行中",
+  "tickcommand.status.sprinting": "世界正在冲刺",
+  "tickcommand.step.fail": "请先冻结世界再步进",
+  "tickcommand.step.stop.fail": "没有可停止的步进",
+  "tickcommand.step.stop.success": "步进已停止",
+  "tickcommand.step.success": "前进 %s tick",
+  "tickcommand.error.time": "时间无效：%s",
+  "tickcommand.error.rate": "速率必须在 1.0 到 10000.0 之间",
+  "tickcommand.error.command_block": "此命令不能从命令方块执行"
+}

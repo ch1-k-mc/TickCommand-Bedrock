@@ -1,0 +1,20 @@
+{
+  "tickcommand.query.percentiles": "Tick time percentiles: P50 %s ms, P95 %s ms, P99 %s ms (%s samples)",
+  "tickcommand.query.rate.running": "Target rate: %s ticks/s\nMean tick time: %s ms (target %s ms)",
+  "tickcommand.query.rate.sprinting": "Target rate: %s ticks/s (not applied during a sprint)\nMean tick time: %s ms",
+  "tickcommand.rate.success": "Target rate is now %s ticks/s",
+  "tickcommand.sprint.report": "Sprint finished: %s ticks/s, %s ms/tick",
+  "tickcommand.sprint.stop.fail": "There is no sprint to stop",
+  "tickcommand.sprint.stop.success": "Sprint stopped",
+  "tickcommand.status.frozen": "World ticking is frozen",
+  "tickcommand.status.lagging": "World is running behind the target rate",
+  "tickcommand.status.running": "World is ticking normally",
+  "tickcommand.status.sprinting": "World is sprinting",
+  "tickcommand.step.fail": "Freeze the world before stepping",
+  "tickcommand.step.stop.fail": "There is no step to stop",
+  "tickcommand.step.stop.success": "Step stopped",
+  "tickcommand.step.success": "Advancing %s tick(s)",
+  "tickcommand.error.time": "Invalid time: %s",
+  "tickcommand.error.rate": "Rate must be between 1.0 and 10000.0",
+  "tickcommand.error.command_block": "This command cannot be run from a command block"
+}
