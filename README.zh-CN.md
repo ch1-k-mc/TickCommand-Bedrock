@@ -2,7 +2,7 @@
 
 [English](README.md) | [日本語](README.ja.md) | [繁體中文](README.zh-TW.md)
 
-![冻结世界并查询 tick 状态](docs/images/screenshot.png)
+![在聊天栏输入 /tick 时显示的全部子命令](docs/images/screenshot.png)
 
 以相同语法为 Minecraft 基岩版添加 Java 版的 `/tick` 命令。这是 [LeviLamina](https://github.com/LiteLDev/LeviLamina) 原生模组。安装到客户端后可在该客户端打开的世界中使用，安装到专用服务器后可在该服务器上使用。
 

@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
 
-![ワールドを凍結して状態を表示したところ](docs/images/screenshot.png)
+![チャット欄に /tick と入力すると、すべての構文が候補に出る](docs/images/screenshot.png)
 
 Java 版の `/tick` コマンドを、同じ構文で Minecraft 統合版に追加します。[LeviLamina](https://github.com/LiteLDev/LeviLamina) 用のネイティブ Mod です。クライアントに入れるとそのクライアントで開いたワールドで、専用サーバーに入れるとそのサーバーで使えます。
 

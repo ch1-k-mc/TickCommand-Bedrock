@@ -2,7 +2,7 @@
 
 [日本語](README.ja.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
 
-![Freezing the world and querying the tick status](docs/images/screenshot.png)
+![Typing /tick in the chat shows every subcommand](docs/images/screenshot.png)
 
 Adds the Java Edition `/tick` command, with the same syntax, to Minecraft: Bedrock Edition. A native mod for [LeviLamina](https://github.com/LiteLDev/LeviLamina). Install it on a client to use it in worlds opened by that client, or on a dedicated server to use it there.
 
